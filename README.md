@@ -28,3 +28,16 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+ 
+
+## About
+My name is Jineen Hourani, and I am a student in Intelligent Systems Engineering.
+This repository contains my AI.SPIRE Pre-Work assignments, where I practice Git, GitHub, and professional development skills as part of my learning journey.
+It documents my Git setup and submission workflow for the program.
+## Setup
+
+To clone this repository locally, use the following commands:
+```bash
+git clone https://github.com/LevelUp-Applied-AI/Jineen-Hourani-prework.git
+cd Jineen-Hourani-prework
