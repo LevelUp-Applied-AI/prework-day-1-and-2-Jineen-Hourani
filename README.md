@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## Setup
+
+Git is installed and configured locally. 
+
+## About
+
+This repository contains my AI.SPIRE Pre-Work assignments for Day 1 and Day 2. 
+
+It documents my Git setup and submission workflow for the program.
